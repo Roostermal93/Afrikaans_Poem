@@ -1,0 +1,21 @@
+{
+    "count": 2,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "43fbe842-8001-4d62-8935-0a4879d11ea5",
+            "collectionId": "Afrikaans",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Afrikaans/43fbe842-8001-4d62-8935-0a4879d11ea5_af_Female.mp4"
+        },
+        {
+            "id": "7fc575ed-af0e-432a-a2d7-a190e320a9af",
+            "collectionId": "Afrikaans",
+            "type": "Poem",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Poem/Afrikaans/7fc575ed-af0e-432a-a2d7-a190e320a9af_af_Female.mp4"
+        }
+    ]
+}
